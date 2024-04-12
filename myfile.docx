@@ -1,0 +1,27 @@
+
+git init............Create a new local repo
+
+git diff............Show changes not yet staged
+
+git status............List new or unmodified files
+
+git add . ............Stage all changed files
+
+git add <file> ...........Stage a file
+
+git commit -a .............Commit all local changes in tracked files
+
+git commit ...............Commit previously staged changes
+
+git commit --amend ...........Changes the last commit
+
+git log ..................Show full changes and update working directory
+
+git branch <new-branch> .......Create a new branch
+
+git fetch <remote> .............fetch all branches from remote repo
+
+git pull <remote> <branch> ..........Fetch all branches from remote repo
+
+git pull <remote> <branch> ..........Push the commitded changes to a remote repository
+
